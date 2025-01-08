@@ -1,0 +1,9 @@
+Extracted Key Points from CSP Responses:
+
+- AWS: Logs are securely encrypted and stored with tamper-proof mechanisms.
+- Retention periods can be customized.
+- Azure: Provides detailed incident reporting and integrates monitoring with role-based access controls (RBAC).
+- GCP: Offers automated alerts for anomaly detection and supports compliance with GDPR, HIPAA, and PCI DSS.
+- IBM Cloud: Includes audit-ready compliance templates for GDPR and provides multi-year log retention options.
+- Oracle Cloud: Ensures data integrity through encryption and offers advanced access control mechanisms.
+- Alibaba Cloud: Logs are retained for five years by default and encrypted to ensure data security.

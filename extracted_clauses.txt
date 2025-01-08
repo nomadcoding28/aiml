@@ -1,0 +1,2116 @@
+Document: REGULATION (EU) GDPR.txt
+- (6)
+
+Rapid technological developments and globalisation have brought new challenges for the protection of personal
+data.
+- Technology allows both
+private companies and public authorities to make use of personal data on an unprecedented scale in order to
+pursue their activities.
+- Technology has transformed both the economy and social life, and should further facilitate the free flow of
+personal data within the Union and the transfer to third countries and international organisations, while ensuring
+a high level of the protection of personal data.
+- Regarding the
+processing of personal data for compliance with a legal obligation, for the performance of a task carried out in
+the public interest or in the exercise of official authority vested in the controller, Member States should be
+allowed to maintain or introduce national provisions to further specify the application of the rules of this
+Regulation.
+- Effective protection of personal data throughout the Union requires the strengthening and setting out in detail of
+the rights of data subjects and the obligations of those who process and determine the processing of personal
+data, as well as equivalent powers for monitoring and ensuring compliance with the rules for the protection of
+personal data and equivalent sanctions for infringements in the Member States.
+- It should be possible to entrust supervision of such data processing operations to specific bodies within
+the judicial system of the Member State, which should, in particular ensure compliance with the rules of this
+Regulation, enhance awareness among members of the judiciary of their obligations under this Regulation and
+handle complaints in relation to such data processing operations.
+- To ascertain whether means are reasonably likely to be used to identify the natural person, account
+should be taken of all objective factors, such as the costs of and the amount of time required for identification,
+taking into consideration the available technology at the time of the processing and technological developments.
+- (34)
+
+Genetic data should be defined as personal data relating to the inherited or acquired genetic characteristics of a
+natural person which result from the analysis of a biological sample from the natural person in question, in
+particular chromosomal, deoxyribonucleic acid (DNA) or ribonucleic acid (RNA) analysis, or from the analysis of
+another element enabling equivalent information to be obtained.
+- This
+includes information about the natural person collected in the course of the registration for, or the provision of,
+health care services as referred to in Directive 2011/24/EU of the European Parliament and of the Council (1) to
+that natural person; a number, symbol or particular assigned to a natural person to uniquely identify the natural
+person for health purposes; information derived from the testing or examination of a body part or bodily
+substance, including from genetic data and biological samples; and any information on, for example, a disease,
+disability, disease risk, medical history, clinical treatment or the physiological or biomedical state of the data
+subject independent of its source, for example from a physician or other health professional, a hospital, a medical
+device or an in vitro diagnostic test.
+- The presence and use of
+technical means and technologies for processing personal data or processing activities do not, in themselves,
+constitute a main establishment and are therefore not determining criteria for a main establishment.
+- In order for processing to be lawful, personal data should be processed on the basis of the consent of the data
+subject concerned or some other legitimate basis, laid down by law, either in this Regulation or in other Union or
+
+L 119/8
+
+EN
+
+Official Journal of the European Union
+
+4.5.2016
+
+Member State law as referred to in this Regulation, including the necessity for compliance with the legal
+obligation to which the controller is subject or the necessity for the performance of a contract to which the data
+subject is party or in order to take steps at the request of the data subject prior to entering into a contract.
+- (49)
+
+The processing of personal data to the extent strictly necessary and proportionate for the purposes of ensuring
+network and information security, i.e. the ability of a network or an information system to resist, at a given level
+of confidence, accidental events or unlawful or malicious actions that compromise the availability, authenticity,
+integrity and confidentiality of stored or transmitted personal data, and the security of the related services offered
+by, or accessible via, those networks and systems, by public authorities, by computer emergency response teams
+(CERTs), computer security incident response teams (CSIRTs), by providers of electronic communications
+networks and services and by providers of security technologies and services, constitutes a legitimate interest of
+the data controller concerned.
+- Such personal data should not be processed, unless processing is allowed in
+specific cases set out in this Regulation, taking into account that Member States law may lay down specific
+provisions on data protection in order to adapt the application of the rules of this Regulation for compliance
+with a legal obligation or for the performance of a task carried out in the public interest or in the exercise of
+official authority vested in the controller.
+- Identification should include the digital identification of a data subject, for example through authentication
+mechanism such as the same credentials, used by the data subject to log-in to the on-line service offered by the
+data controller.
+- This is of particular relevance in situations where the proliferation of
+actors and the technological complexity of practice make it difficult for the data subject to know and understand
+whether, by whom and for what purpose personal data relating to him or her are being collected, such as in the
+case of online advertising.
+- Every data subject should
+therefore have the right to know and obtain communication in particular with regard to the purposes for which
+the personal data are processed, where possible the period for which the personal data are processed, the
+recipients of the personal data, the logic involved in any automatic personal data processing and, at least when
+based on profiling, the consequences of such processing.
+- (65)
+
+A data subject should have the right to have personal data concerning him or her rectified and a ‘right to be
+forgotten’ where the retention of such data infringes this Regulation or Union or Member State law to which the
+controller is subject.
+- However, the further retention of the personal data
+should be lawful where it is necessary, for exercising the right of freedom of expression and information, for
+compliance with a legal obligation, for the performance of a task carried out in the public interest or in the
+exercise of official authority vested in the controller, on the grounds of public interest in the area of public
+health, for archiving purposes in the public interest, scientific or historical research purposes or statistical
+purposes, or for the establishment, exercise or defence of legal claims.
+- In
+doing so, that controller should take reasonable steps, taking into account available technology and the means
+available to the controller, including technical measures, to inform the controllers which are processing the
+personal data of the data subject's request.
+- It
+should therefore not apply where the processing of the personal data is necessary for compliance with a legal
+obligation to which the controller is subject or for the performance of a task carried out in the public interest or
+in the exercise of an official authority vested in the controller.
+- (73)
+
+Restrictions concerning specific principles and the rights of information, access to and rectification or erasure of
+personal data, the right to data portability, the right to object, decisions based on profiling, as well as the
+communication of a personal data breach to a data subject and certain related obligations of the controllers may
+be imposed by Union or Member State law, as far as necessary and proportionate in a democratic society to
+safeguard public security, including the protection of human life especially in response to natural or manmade
+disasters, the prevention, investigation and prosecution of criminal offences or the execution of criminal
+penalties, including the safeguarding against and the prevention of threats to public security, or of breaches of
+ethics for regulated professions, other important objectives of general public interest of the Union or of a
+Member State, in particular an important economic or financial interest of the Union or of a Member State, the
+keeping of public registers kept for reasons of general public interest, further processing of archived personal data
+to provide specific information related to the political behaviour under former totalitarian state regimes or the
+protection of the data subject or the rights and freedoms of others, including social protection, public health and
+humanitarian purposes.
+- In particular, the controller should be obliged to implement
+appropriate and effective measures and be able to demonstrate the compliance of processing activities with this
+Regulation, including the effectiveness of the measures.
+- (77)
+
+Guidance on the implementation of appropriate measures and on the demonstration of compliance by the
+controller or the processor, especially as regards the identification of the risk related to the processing, their
+assessment in terms of origin, nature, likelihood and severity, and the identification of best practices to mitigate
+the risk, could be provided in particular by means of approved codes of conduct, approved certifications,
+guidelines provided by the Board or indications provided by a data protection officer.
+- In order to be able to demonstrate compliance with this Regulation, the controller should
+adopt internal policies and implement measures which meet in particular the principles of data protection by
+design and data protection by default.
+- Such a representative should perform its tasks according to the mandate received from the controller
+or processor, including cooperating with the competent supervisory authorities with regard to any action taken
+to ensure compliance with this Regulation.
+- The designated representative should be subject to enforcement
+proceedings in the event of non-compliance by the controller or processor.
+- (81)
+
+To ensure compliance with the requirements of this Regulation in respect of the processing to be carried out by
+the processor on behalf of the controller, when entrusting a processor with processing activities, the controller
+should use only processors providing sufficient guarantees, in particular in terms of expert knowledge, reliability
+and resources, to implement technical and organisational measures which will meet the requirements of this
+Regulation, including for the security of processing.
+- The adherence of the processor to an approved code of
+conduct or an approved certification mechanism may be used as an element to demonstrate compliance with the
+obligations of the controller.
+- (82)
+
+In order to demonstrate compliance with this Regulation, the controller or processor should maintain records of
+processing activities under its responsibility.
+- (84)
+
+In order to enhance compliance with this Regulation where processing operations are likely to result in a high
+risk to the rights and freedoms of natural persons, the controller should be responsible for the carrying-out of a
+data protection impact assessment to evaluate, in particular, the origin, nature, particularity and severity of that
+risk.
+- Where a
+data-protection impact assessment indicates that processing operations involve a high risk which the controller
+cannot mitigate by appropriate measures in terms of available technology and costs of implementation, a
+consultation of the supervisory authority should take place prior to the processing.
+- (85)
+
+A personal data breach may, if not addressed in an appropriate and timely manner, result in physical, material or
+non-material damage to natural persons such as loss of control over their personal data or limitation of their
+rights, discrimination, identity theft or fraud, financial loss, unauthorised reversal of pseudonymisation, damage
+to reputation, loss of confidentiality of personal data protected by professional secrecy or any other significant
+economic or social disadvantage to the natural person concerned.
+- Therefore, as soon as the controller becomes
+
+4.5.2016
+
+EN
+
+Official Journal of the European Union
+
+L 119/17
+
+aware that a personal data breach has occurred, the controller should notify the personal data breach to the
+supervisory authority without undue delay and, where feasible, not later than 72 hours after having become
+aware of it, unless the controller is able to demonstrate, in accordance with the accountability principle, that the
+personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons.
+- The controller should communicate to the data subject a personal data breach, without undue delay, where that
+personal data breach is likely to result in a high risk to the rights and freedoms of the natural person in order to
+allow him or her to take the necessary precautions.
+- The communication should describe the nature of the
+personal data breach as well as recommendations for the natural person concerned to mitigate potential adverse
+effects.
+- For example, the need to mitigate an immediate risk of damage would call
+for prompt communication with data subjects whereas the need to implement appropriate measures against
+continuing or similar personal data breaches may justify more time for communication.
+- (87)
+
+It should be ascertained whether all appropriate technological protection and organisational measures have been
+implemented to establish immediately whether a personal data breach has taken place and to inform promptly
+the supervisory authority and the data subject.
+- The fact that the notification was made without undue delay
+should be established taking into account in particular the nature and gravity of the personal data breach and its
+consequences and adverse effects for the data subject.
+- In setting detailed rules concerning the format and procedures applicable to the notification of personal data
+breaches, due consideration should be given to the circumstances of that breach, including whether or not
+personal data had been protected by appropriate technical protection measures, effectively limiting the likelihood
+of identity fraud or other forms of misuse.
+- Moreover, such rules and procedures should take into account the
+legitimate interests of law-enforcement authorities where early disclosure could unnecessarily hamper the investi­
+gation of the circumstances of a personal data breach.
+- Such types of processing operations may be those which in,
+particular, involve using new technologies, or are of a new kind and where no data protection impact assessment
+has been carried out before by the controller, or where they become necessary in the light of the time that has
+elapsed since the initial processing.
+- That impact assessment should include, in
+particular, the measures, safeguards and mechanisms envisaged for mitigating that risk, ensuring the protection of
+personal data and demonstrating compliance with this Regulation.
+- (91)
+
+This should in particular apply to large-scale processing operations which aim to process a considerable amount
+of personal data at regional, national or supranational level and which could affect a large number of data
+subjects and which are likely to result in a high risk, for example, on account of their sensitivity, where in
+accordance with the achieved state of technological knowledge a new technology is used on a large scale as well
+as to other processing operations which result in a high risk to the rights and freedoms of data subjects, in
+particular where those operations render it more difficult for data subjects to exercise their rights.
+- (94)
+
+Where a data protection impact assessment indicates that the processing would, in the absence of safeguards,
+security measures and mechanisms to mitigate the risk, result in a high risk to the rights and freedoms of natural
+persons and the controller is of the opinion that the risk cannot be mitigated by reasonable means in terms of
+available technologies and costs of implementation, the supervisory authority should be consulted prior to the
+start of processing activities.
+- (95)
+
+The processor should assist the controller, where necessary and upon request, in ensuring compliance with the
+obligations deriving from the carrying out of data protection impact assessments and from prior consultation of
+the supervisory authority.
+- (96)
+
+A consultation of the supervisory authority should also take place in the course of the preparation of a legislative
+or regulatory measure which provides for the processing of personal data, in order to ensure compliance of the
+intended processing with this Regulation and in particular to mitigate the risk involved for the data subject.
+- (97)
+
+Where the processing is carried out by a public authority, except for courts or independent judicial authorities
+when acting in their judicial capacity, where, in the private sector, processing is carried out by a controller whose
+core activities consist of processing operations that require regular and systematic monitoring of the data subjects
+on a large scale, or where the core activities of the controller or the processor consist of processing on a large
+scale of special categories of personal data and data relating to criminal convictions and offences, a person with
+expert knowledge of data protection law and practices should assist the controller or processor to monitor
+internal compliance with this Regulation.
+- In order to enhance transparency and compliance with this Regulation, the establishment of certification
+mechanisms and data protection seals and marks should be encouraged, allowing data subjects to quickly assess
+the level of data protection of relevant products and services.
+- In any
+event, transfers to third countries and international organisations may only be carried out in full compliance with
+this Regulation.
+- The
+Commission should evaluate, within a reasonable time, the functioning of the latter decisions and report any
+relevant findings to the Committee within the meaning of Regulation (EU) No 182/2011 of the European
+Parliament and of the Council (1) as established under this Regulation, to the European Parliament and to the
+Council.
+- Those safeguards should ensure compliance with data protection
+requirements and the rights of the data subjects appropriate to processing within the Union, including the
+availability of enforceable data subject rights and of effective legal remedies, including to obtain effective adminis­
+trative or judicial redress and to claim compensation, in the Union or in a third country.
+- They should relate in
+particular to compliance with the general principles relating to personal data processing, the principles of data
+protection by design and by default.
+- The extraterritorial application of those laws, regulations and other legal acts may be in
+breach of international law and may impede the attainment of the protection of natural persons ensured in the
+Union by this Regulation.
+- The controller or processor should take the necessary measures to ensure
+compliance with this Regulation and the implementation of the decision notified by the lead supervisory
+authority to the main establishment of the controller or processor as regards the processing activities in the
+Union.
+- In particular each measure should be appropriate, necessary and proportionate in view of
+ensuring compliance with this Regulation, taking into account the circumstances of each individual case, respect
+the right of every person to be heard before any individual measure which would affect him or her adversely is
+taken and avoid superfluous costs and excessive inconveniences for the persons concerned.
+- The staff of
+the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by this
+Regulation should perform its tasks exclusively under the instructions of, and report to, the Chair of the Board.
+- Due regard should however be given to the nature, gravity and duration of the infringement, the
+intentional character of the infringement, actions taken to mitigate the damage suffered, degree of responsibility
+or any relevant previous infringements, the manner in which the infringement became known to the supervisory
+authority, compliance with measures ordered against the controller or processor, adherence to a code of conduct
+and any other aggravating or mitigating factor.
+- However, the imposition of criminal penalties for infringements of such national rules and of
+administrative penalties should not lead to a breach of the principle of ne bis in idem, as interpreted by the Court
+of Justice.
+- L 119/28
+
+EN
+
+Official Journal of the European Union
+
+4.5.2016
+
+infringements and the upper limit and criteria for setting the related administrative fines, which should be
+determined by the competent supervisory authority in each individual case, taking into account all relevant
+circumstances of the specific situation, with due regard in particular to the nature, gravity and duration of the
+infringement and of its consequences and the measures taken to ensure compliance with the obligations under
+this Regulation and to prevent or mitigate the consequences of the infringement.
+- For the purposes of this Regulation, the processing of personal data for scientific research purposes
+should be interpreted in a broad manner including for example technological development and demonstration,
+fundamental research, applied research and privately funded research.
+- This should also include historical research and research for genealogical purposes, bearing in mind
+that this Regulation should not apply to deceased persons.
+- Article 4
+
+Definitions
+
+For the purposes of this Regulation:
+(1) ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an
+identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an
+identifier such as a name, an identification number, location data, an online identifier or to one or more factors
+specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+(2) ‘processing’ means any operation or set of operations which is performed on personal data or on sets of personal
+data, whether or not by automated means, such as collection, recording, organisation, structuring, storage,
+adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making
+available, alignment or combination, restriction, erasure or destruction;
+(3) ‘restriction of processing’ means the marking of stored personal data with the aim of limiting their processing in
+the future;
+(4) ‘profiling’ means any form of automated processing of personal data consisting of the use of personal data to
+evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning
+that natural person's performance at work, economic situation, health, personal preferences, interests, reliability,
+behaviour, location or movements;
+(5) ‘pseudonymisation’ means the processing of personal data in such a manner that the personal data can no longer
+be attributed to a specific data subject without the use of additional information, provided that such additional
+information is kept separately and is subject to technical and organisational measures to ensure that the personal
+data are not attributed to an identified or identifiable natural person;
+(6) ‘filing system’ means any structured set of personal data which are accessible according to specific criteria, whether
+centralised, decentralised or dispersed on a functional or geographical basis;
+(7) ‘controller’ means the natural or legal person, public authority, agency or other body which, alone or jointly with
+others, determines the purposes and means of the processing of personal data; where the purposes and means of
+such processing are determined by Union or Member State law, the controller or the specific criteria for its
+nomination may be provided for by Union or Member State law;
+(8) ‘processor’ means a natural or legal person, public authority, agency or other body which processes personal data
+on behalf of the controller;
+(9) ‘recipient’ means a natural or legal person, public authority, agency or another body, to which the personal data are
+disclosed, whether a third party or not.
+- However, public authorities which may receive personal data in the
+
+L 119/34
+
+EN
+
+Official Journal of the European Union
+
+4.5.2016
+
+framework of a particular inquiry in accordance with Union or Member State law shall not be regarded as
+recipients; the processing of those data by those public authorities shall be in compliance with the applicable data
+protection rules according to the purposes of the processing;
+(10) ‘third party’ means a natural or legal person, public authority, agency or body other than the data subject,
+controller, processor and persons who, under the direct authority of the controller or processor, are authorised to
+process personal data;
+(11) ‘consent’ of the data subject means any freely given, specific, informed and unambiguous indication of the data
+subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the
+processing of personal data relating to him or her;
+(12) ‘personal data breach’ means a breach of security leading to the accidental or unlawful destruction, loss, alteration,
+unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed;
+(13) ‘genetic data’ means personal data relating to the inherited or acquired genetic characteristics of a natural person
+which give unique information about the physiology or the health of that natural person and which result, in
+particular, from an analysis of a biological sample from the natural person in question;
+(14) ‘biometric data’ means personal data resulting from specific technical processing relating to the physical, physio­
+logical or behavioural characteristics of a natural person, which allow or confirm the unique identification of that
+natural person, such as facial images or dactyloscopic data;
+(15) ‘data concerning health’ means personal data related to the physical or mental health of a natural person, including
+the provision of health care services, which reveal information about his or her health status;
+(16) ‘main establishment’ means:
+(a) as regards a controller with establishments in more than one Member State, the place of its central adminis­
+tration in the Union, unless the decisions on the purposes and means of the processing of personal data are
+taken in another establishment of the controller in the Union and the latter establishment has the power to
+have such decisions implemented, in which case the establishment having taken such decisions is to be
+considered to be the main establishment;
+(b) as regards a processor with establishments in more than one Member State, the place of its central adminis­
+tration in the Union, or, if the processor has no central administration in the Union, the establishment of the
+processor in the Union where the main processing activities in the context of the activities of an establishment
+of the processor take place to the extent that the processor is subject to specific obligations under this
+Regulation;
+(17) ‘representative’ means a natural or legal person established in the Union who, designated by the controller or
+processor in writing pursuant to Article 27, represents the controller or processor with regard to their respective
+obligations under this Regulation;
+(18) ‘enterprise’ means a natural or legal person engaged in an economic activity, irrespective of its legal form, including
+partnerships or associations regularly engaged in an economic activity;
+(19) ‘group of undertakings’ means a controlling undertaking and its controlled undertakings;
+(20) ‘binding corporate rules’ means personal data protection policies which are adhered to by a controller or processor
+established on the territory of a Member State for transfers or a set of transfers of personal data to a controller or
+processor in one or more third countries within a group of undertakings, or group of enterprises engaged in a
+joint economic activity;
+(21) ‘supervisory authority’ means an independent public authority which is established by a Member State pursuant to
+Article 51;
+
+4.5.2016
+
+EN
+
+Official Journal of the European Union
+
+L 119/35
+
+(22) ‘supervisory authority concerned’ means a supervisory authority which is concerned by the processing of personal
+data because:
+(a) the controller or processor is established on the territory of the Member State of that supervisory authority;
+(b) data subjects residing in the Member State of that supervisory authority are substantially affected or likely to be
+substantially affected by the processing; or
+(c) a complaint has been lodged with that supervisory authority;
+(23) ‘cross-border processing’ means either:
+(a) processing of personal data which takes place in the context of the activities of establishments in more than
+one Member State of a controller or processor in the Union where the controller or processor is established in
+more than one Member State; or
+(b) processing of personal data which takes place in the context of the activities of a single establishment of a
+controller or processor in the Union but which substantially affects or is likely to substantially affect data
+subjects in more than one Member State.
+- The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1 (‘accountability’).
+- Processing shall be lawful only if and to the extent that at least one of the following applies:
+
+(a) the data subject has given consent to the processing of his or her personal data for one or more specific purposes;
+(b) processing is necessary for the performance of a contract to which the data subject is party or in order to take steps
+at the request of the data subject prior to entering into a contract;
+(c) processing is necessary for compliance with a legal obligation to which the controller is subject;
+(d) processing is necessary in order to protect the vital interests of the data subject or of another natural person;
+(e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official
+authority vested in the controller;
+(f) processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party,
+except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject
+which require protection of personal data, in particular where the data subject is a child.
+- 2.
+Member States may maintain or introduce more specific provisions to adapt the application of the rules of this
+Regulation with regard to processing for compliance with points (c) and (e) of paragraph 1 by determining more
+precisely specific requirements for the processing and other measures to ensure lawful and fair processing including for
+other specific processing situations as provided for in Chapter IX.
+3.
+- The controller shall make reasonable efforts to verify in such cases that consent is given or authorised by the
+holder of parental responsibility over the child, taking into consideration available technology.
+- In addition to the information referred to in paragraph 1, the controller shall, at the time when personal data are
+obtained, provide the data subject with the following further information necessary to ensure fair and transparent
+processing:
+(a) the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that
+period;
+(b) the existence of the right to request from the controller access to and rectification or erasure of personal data or
+restriction of processing concerning the data subject or to object to processing as well as the right to data
+portability;
+(c) where the processing is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to
+withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal;
+(d) the right to lodge a complaint with a supervisory authority;
+(e) whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter
+into a contract, as well as whether the data subject is obliged to provide the personal data and of the possible
+consequences of failure to provide such data;
+(f) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in
+those cases, meaningful information about the logic involved, as well as the significance and the envisaged
+consequences of such processing for the data subject.
+- In addition to the information referred to in paragraph 1, the controller shall provide the data subject with the
+following information necessary to ensure fair and transparent processing in respect of the data subject:
+(a) the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that
+period;
+(b) where the processing is based on point (f) of Article 6(1), the legitimate interests pursued by the controller or by a
+third party;
+(c) the existence of the right to request from the controller access to and rectification or erasure of personal data or
+restriction of processing concerning the data subject and to object to processing as well as the right to data
+portability;
+(d) where processing is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to
+withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal;
+(e) the right to lodge a complaint with a supervisory authority;
+(f) from which source the personal data originate, and if applicable, whether it came from publicly accessible sources;
+(g) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in
+those cases, meaningful information about the logic involved, as well as the significance and the envisaged
+consequences of such processing for the data subject.
+- The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data
+concerning him or her are being processed, and, where that is the case, access to the personal data and the following
+information:
+(a) the purposes of the processing;
+(b) the categories of personal data concerned;
+(c) the recipients or categories of recipient to whom the personal data have been or will be disclosed, in particular
+recipients in third countries or international organisations;
+(d) where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used
+to determine that period;
+(e) the existence of the right to request from the controller rectification or erasure of personal data or restriction of
+processing of personal data concerning the data subject or to object to such processing;
+(f) the right to lodge a complaint with a supervisory authority;
+(g) where the personal data are not collected from the data subject, any available information as to their source;
+(h) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in
+those cases, meaningful information about the logic involved, as well as the significance and the envisaged
+consequences of such processing for the data subject.
+- The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or
+her without undue delay and the controller shall have the obligation to erase personal data without undue delay where
+one of the following grounds applies:
+(a) the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise
+processed;
+
+L 119/44
+
+EN
+
+Official Journal of the European Union
+
+4.5.2016
+
+(b) the data subject withdraws consent on which the processing is based according to point (a) of Article 6(1), or
+point (a) of Article 9(2), and where there is no other legal ground for the processing;
+(c) the data subject objects to the processing pursuant to Article 21(1) and there are no overriding legitimate grounds
+for the processing, or the data subject objects to the processing pursuant to Article 21(2);
+(d) the personal data have been unlawfully processed;
+(e) the personal data have to be erased for compliance with a legal obligation in Union or Member State law to which
+the controller is subject;
+(f) the personal data have been collected in relation to the offer of information society services referred to in
+Article 8(1).
+- 2.
+Where the controller has made the personal data public and is obliged pursuant to paragraph 1 to erase the
+personal data, the controller, taking account of available technology and the cost of implementation, shall take
+reasonable steps, including technical measures, to inform controllers which are processing the personal data that the
+data subject has requested the erasure by such controllers of any links to, or copy or replication of, those personal data.
+3.
+- Paragraphs 1 and 2 shall not apply to the extent that processing is necessary:
+
+(a) for exercising the right of freedom of expression and information;
+(b) for compliance with a legal obligation which requires processing by Union or Member State law to which the
+controller is subject or for the performance of a task carried out in the public interest or in the exercise of official
+authority vested in the controller;
+(c) for reasons of public interest in the area of public health in accordance with points (h) and (i) of Article 9(2) as well
+as Article 9(3);
+(d) for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in
+accordance with Article 89(1) in so far as the right referred to in paragraph 1 is likely to render impossible or
+seriously impair the achievement of the objectives of that processing; or
+(e) for the establishment, exercise or defence of legal claims.
+- Union or Member State law to which the data controller or processor is subject may restrict by way of a legislative
+measure the scope of the obligations and rights provided for in Articles 12 to 22 and Article 34, as well as Article 5 in
+so far as its provisions correspond to the rights and obligations provided for in Articles 12 to 22, when such a
+restriction respects the essence of the fundamental rights and freedoms and is a necessary and proportionate measure in
+a democratic society to safeguard:
+(a) national security;
+(b) defence;
+(c) public security;
+
+4.5.2016
+
+EN
+
+Official Journal of the European Union
+
+L 119/47
+
+(d) the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties,
+including the safeguarding against and the prevention of threats to public security;
+(e) other important objectives of general public interest of the Union or of a Member State, in particular an important
+economic or financial interest of the Union or of a Member State, including monetary, budgetary and taxation a
+matters, public health and social security;
+(f) the protection of judicial independence and judicial proceedings;
+(g) the prevention, investigation, detection and prosecution of breaches of ethics for regulated professions;
+(h) a monitoring, inspection or regulatory function connected, even occasionally, to the exercise of official authority in
+the cases referred to in points (a) to (e) and (g);
+(i) the protection of the data subject or the rights and freedoms of others;
+(j) the enforcement of civil law claims.
+- Adherence to approved codes of conduct as referred to in Article 40 or approved certification mechanisms as
+referred to in Article 42 may be used as an element by which to demonstrate compliance with the obligations of the
+controller.
+- An approved certification mechanism pursuant to Article 42 may be used as an element to demonstrate
+compliance with the requirements set out in paragraphs 1 and 2 of this Article.
+- They shall in a transparent manner determine their respective responsibilities for compliance with the
+obligations under this Regulation, in particular as regards the exercising of the rights of the data subject and their
+respective duties to provide the information referred to in Articles 13 and 14, by means of an arrangement between
+them unless, and in so far as, the respective responsibilities of the controllers are determined by Union or Member State
+law to which the controllers are subject.
+- The representative shall be mandated by the controller or processor to be addressed in addition to or instead of
+the controller or the processor by, in particular, supervisory authorities and data subjects, on all issues related to
+processing, for the purposes of ensuring compliance with this Regulation.
+- That contract or other legal act shall stipulate, in particular, that the processor:
+(a) processes the personal data only on documented instructions from the controller, including with regard to transfers
+of personal data to a third country or an international organisation, unless required to do so by Union or
+Member State law to which the processor is subject; in such a case, the processor shall inform the controller of that
+legal requirement before processing, unless that law prohibits such information on important grounds of public
+interest;
+(b) ensures that persons authorised to process the personal data have committed themselves to confidentiality or are
+under an appropriate statutory obligation of confidentiality;
+(c) takes all measures required pursuant to Article 32;
+(d) respects the conditions referred to in paragraphs 2 and 4 for engaging another processor;
+(e) taking into account the nature of the processing, assists the controller by appropriate technical and organisational
+measures, insofar as this is possible, for the fulfilment of the controller's obligation to respond to requests for
+exercising the data subject's rights laid down in Chapter III;
+(f) assists the controller in ensuring compliance with the obligations pursuant to Articles 32 to 36 taking into account
+the nature of processing and the information available to the processor;
+(g) at the choice of the controller, deletes or returns all the personal data to the controller after the end of the provision
+of services relating to processing, and deletes existing copies unless Union or Member State law requires storage of
+the personal data;
+(h) makes available to the controller all information necessary to demonstrate compliance with the obligations laid
+down in this Article and allow for and contribute to audits, including inspections, conducted by the controller or
+another auditor mandated by the controller.
+- Section 2
+Security of personal data
+Article 32
+Security of processing
+1.
+Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes
+of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the
+controller and the processor shall implement appropriate technical and organisational measures to ensure a level of
+security appropriate to the risk, including inter alia as appropriate:
+(a) the pseudonymisation and encryption of personal data;
+
+L 119/52
+
+EN
+
+Official Journal of the European Union
+
+4.5.2016
+
+(b) the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and
+services;
+(c) the ability to restore the availability and access to personal data in a timely manner in the event of a physical or
+technical incident;
+(d) a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for
+ensuring the security of the processing.
+- Adherence to an approved code of conduct as referred to in Article 40 or an approved certification mechanism as
+referred to in Article 42 may be used as an element by which to demonstrate compliance with the requirements set out
+in paragraph 1 of this Article.
+- Article 33
+Notification of a personal data breach to the supervisory authority
+1.
+- In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than
+72 hours after having become aware of it, notify the personal data breach to the supervisory authority competent in
+accordance with Article 55, unless the personal data breach is unlikely to result in a risk to the rights and freedoms of
+natural persons.
+- The processor shall notify the controller without undue delay after becoming aware of a personal data breach.
+- The notification referred to in paragraph 1 shall at least:
+
+(a) describe the nature of the personal data breach including where possible, the categories and approximate number of
+data subjects concerned and the categories and approximate number of personal data records concerned;
+(b) communicate the name and contact details of the data protection officer or other contact point where more
+information can be obtained;
+(c) describe the likely consequences of the personal data breach;
+(d) describe the measures taken or proposed to be taken by the controller to address the personal data breach,
+including, where appropriate, measures to mitigate its possible adverse effects.
+- The controller shall document any personal data breaches, comprising the facts relating to the personal data
+breach, its effects and the remedial action taken.
+- That documentation shall enable the supervisory authority to verify
+compliance with this Article.
+- Article 34
+Communication of a personal data breach to the data subject
+1.
+- When the personal data breach is likely to result in a high risk to the rights and freedoms of natural persons, the
+controller shall communicate the personal data breach to the data subject without undue delay.
+- The communication to the data subject referred to in paragraph 1 of this Article shall describe in clear and plain
+language the nature of the personal data breach and contain at least the information and measures referred to in
+points (b), (c) and (d) of Article 33(3).
+- The communication to the data subject referred to in paragraph 1 shall not be required if any of the following
+conditions are met:
+(a) the controller has implemented appropriate technical and organisational protection measures, and those measures
+were applied to the personal data affected by the personal data breach, in particular those that render the personal
+data unintelligible to any person who is not authorised to access it, such as encryption;
+(b) the controller has taken subsequent measures which ensure that the high risk to the rights and freedoms of data
+subjects referred to in paragraph 1 is no longer likely to materialise;
+(c) it would involve disproportionate effort.
+- If the controller has not already communicated the personal data breach to the data subject, the supervisory
+authority, having considered the likelihood of the personal data breach resulting in a high risk, may require it to do so
+or may decide that any of the conditions referred to in paragraph 3 are met.
+- Where a type of processing in particular using new technologies, and taking into account the nature, scope,
+context and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons,
+the controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing
+operations on the protection of personal data.
+- L 119/54
+7.
+
+EN
+
+Official Journal of the European Union
+
+4.5.2016
+
+The assessment shall contain at least:
+
+(a) a systematic description of the envisaged processing operations and the purposes of the processing, including, where
+applicable, the legitimate interest pursued by the controller;
+(b) an assessment of the necessity and proportionality of the processing operations in relation to the purposes;
+(c) an assessment of the risks to the rights and freedoms of data subjects referred to in paragraph 1; and
+(d) the measures envisaged to address the risks, including safeguards, security measures and mechanisms to ensure the
+protection of personal data and to demonstrate compliance with this Regulation taking into account the rights and
+legitimate interests of data subjects and other persons concerned.
+- Compliance with approved codes of conduct referred to in Article 40 by the relevant controllers or processors
+shall be taken into due account in assessing the impact of the processing operations performed by such controllers or
+processors, in particular for the purposes of a data protection impact assessment.
+- The data protection officer shall directly report to the highest management level of the controller
+or the processor.
+- The data protection officer shall have at least the following tasks:
+
+(a) to inform and advise the controller or the processor and the employees who carry out processing of their
+obligations pursuant to this Regulation and to other Union or Member State data protection provisions;
+(b) to monitor compliance with this Regulation, with other Union or Member State data protection provisions and with
+the policies of the controller or processor in relation to the protection of personal data, including the assignment of
+responsibilities, awareness-raising and training of staff involved in processing operations, and the related audits;
+(c) to provide advice where requested as regards the data protection impact assessment and monitor its performance
+pursuant to Article 35;
+(d) to cooperate with the supervisory authority;
+(e) to act as the contact point for the supervisory authority on issues relating to processing, including the prior
+consultation referred to in Article 36, and to consult, where appropriate, with regard to any other matter.
+- 2.
+Associations and other bodies representing categories of controllers or processors may prepare codes of conduct,
+or amend or extend such codes, for the purpose of specifying the application of this Regulation, such as with regard to:
+(a) fair and transparent processing;
+
+4.5.2016
+
+EN
+
+Official Journal of the European Union
+
+L 119/57
+
+(b) the legitimate interests pursued by controllers in specific contexts;
+(c) the collection of personal data;
+(d) the pseudonymisation of personal data;
+(e) the information provided to the public and to data subjects;
+(f) the exercise of the rights of data subjects;
+(g) the information provided to, and the protection of, children, and the manner in which the consent of the holders of
+parental responsibility over children is to be obtained;
+(h) the measures and procedures referred to in Articles 24 and 25 and the measures to ensure security of processing
+referred to in Article 32;
+(i) the notification of personal data breaches to supervisory authorities and the communication of such personal data
+breaches to data subjects;
+(j) the transfer of personal data to third countries or international organisations; or
+(k) out-of-court proceedings and other dispute resolution procedures for resolving disputes between controllers and data
+subjects with regard to processing, without prejudice to the rights of data subjects pursuant to Articles 77 and 79.
+- A code of conduct referred to in paragraph 2 of this Article shall contain mechanisms which enable the body
+referred to in Article 41(1) to carry out the mandatory monitoring of compliance with its provisions by the controllers
+or processors which undertake to apply it, without prejudice to the tasks and powers of supervisory authorities
+competent pursuant to Article 55 or 56.
+- Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, the
+monitoring of compliance with a code of conduct pursuant to Article 40 may be carried out by a body which has an
+appropriate level of expertise in relation to the subject-matter of the code and is accredited for that purpose by the
+competent supervisory authority.
+- 2.
+A body as referred to in paragraph 1 may be accredited to monitor compliance with a code of conduct where that
+body has:
+(a) demonstrated its independence and expertise in relation to the subject-matter of the code to the satisfaction of the
+competent supervisory authority;
+(b) established procedures which allow it to assess the eligibility of controllers and processors concerned to apply the
+code, to monitor their compliance with its provisions and to periodically review its operation;
+(c) established procedures and structures to handle complaints about infringements of the code or the manner in which
+the code has been, or is being, implemented by a controller or processor, and to make those procedures and
+structures transparent to data subjects and the public; and
+(d) demonstrated to the satisfaction of the competent supervisory authority that its tasks and duties do not result in a
+conflict of interests.
+- The Member States, the supervisory authorities, the Board and the Commission shall encourage, in particular at
+Union level, the establishment of data protection certification mechanisms and of data protection seals and marks, for
+the purpose of demonstrating compliance with this Regulation of processing operations by controllers and processors.
+- A certification pursuant to this Article does not reduce the responsibility of the controller or the processor for
+compliance with this Regulation and is without prejudice to the tasks and powers of the supervisory authorities which
+are competent pursuant to Article 55 or 56.
+- The certification bodies referred to in paragraph 1 shall be responsible for the proper assessment leading to the
+certification or the withdrawal of such certification without prejudice to the responsibility of the controller or processor
+for compliance with this Regulation.
+- When assessing the adequacy of the level of protection, the Commission shall, in particular, take account of the
+following elements:
+(a) the rule of law, respect for human rights and fundamental freedoms, relevant legislation, both general and sectoral,
+including concerning public security, defence, national security and criminal law and the access of public authorities
+to personal data, as well as the implementation of such legislation, data protection rules, professional rules and
+security measures, including rules for the onward transfer of personal data to another third country or international
+organisation which are complied with in that country or international organisation, case-law, as well as effective and
+enforceable data subject rights and effective administrative and judicial redress for the data subjects whose personal
+data are being transferred;
+(b) the existence and effective functioning of one or more independent supervisory authorities in the third country or to
+which an international organisation is subject, with responsibility for ensuring and enforcing compliance with the
+data protection rules, including adequate enforcement powers, for assisting and advising the data subjects in
+exercising their rights and for cooperation with the supervisory authorities of the Member States; and
+(c) the international commitments the third country or international organisation concerned has entered into, or other
+obligations arising from legally binding conventions or instruments as well as from its participation in multilateral
+or regional systems, in particular in relation to the protection of personal data.
+- The binding corporate rules referred to in paragraph 1 shall specify at least:
+
+(a) the structure and contact details of the group of undertakings, or group of enterprises engaged in a joint economic
+activity and of each of its members;
+(b) the data transfers or set of transfers, including the categories of personal data, the type of processing and its
+purposes, the type of data subjects affected and the identification of the third country or countries in question;
+(c) their legally binding nature, both internally and externally;
+(d) the application of the general data protection principles, in particular purpose limitation, data minimisation, limited
+storage periods, data quality, data protection by design and by default, legal basis for processing, processing of
+special categories of personal data, measures to ensure data security, and the requirements in respect of onward
+transfers to bodies not bound by the binding corporate rules;
+(e) the rights of data subjects in regard to processing and the means to exercise those rights, including the right not to
+be subject to decisions based solely on automated processing, including profiling in accordance with Article 22, the
+right to lodge a complaint with the competent supervisory authority and before the competent courts of the
+Member States in accordance with Article 79, and to obtain redress and, where appropriate, compensation for a
+breach of the binding corporate rules;
+(f)
+
+the acceptance by the controller or processor established on the territory of a Member State of liability for any
+breaches of the binding corporate rules by any member concerned not established in the Union; the controller or
+the processor shall be exempt from that liability, in whole or in part, only if it proves that that member is not
+responsible for the event giving rise to the damage;
+
+(g) how the information on the binding corporate rules, in particular on the provisions referred to in points (d), (e)
+and (f) of this paragraph is provided to the data subjects in addition to Articles 13 and 14;
+(h) the tasks of any data protection officer designated in accordance with Article 37 or any other person or entity in
+charge of the monitoring compliance with the binding corporate rules within the group of undertakings, or group
+of enterprises engaged in a joint economic activity, as well as monitoring training and complaint-handling;
+(i)
+
+the complaint procedures;
+
+(j)
+
+the mechanisms within the group of undertakings, or group of enterprises engaged in a joint economic activity for
+ensuring the verification of compliance with the binding corporate rules.
+- Such mechanisms shall include data
+protection audits and methods for ensuring corrective actions to protect the rights of the data subject.
+- Results of
+such verification should be communicated to the person or entity referred to in point (h) and to the board of the
+controlling undertaking of a group of undertakings, or of the group of enterprises engaged in a joint economic
+activity, and should be available upon request to the competent supervisory authority;
+
+(k) the mechanisms for reporting and recording changes to the rules and reporting those changes to the supervisory
+authority;
+(l)
+
+the cooperation mechanism with the supervisory authority to ensure compliance by any member of the group of
+undertakings, or group of enterprises engaged in a joint economic activity, in particular by making available to the
+supervisory authority the results of verifications of the measures referred to in point (j);
+
+(m) the mechanisms for reporting to the competent supervisory authority any legal requirements to which a member of
+the group of undertakings, or group of enterprises engaged in a joint economic activity is subject in a third country
+which are likely to have a substantial adverse effect on the guarantees provided by the binding corporate rules; and
+(n) the appropriate data protection training to personnel having permanent or regular access to personal data.
+- Where more than one supervisory authority is established in a Member State, that Member State shall designate
+the supervisory authority which is to represent those authorities in the Board and shall set out the mechanism to ensure
+compliance by the other authorities with the rules relating to the consistency mechanism referred to in Article 63.
+4.
+- During their term of office, that duty of professional secrecy shall in particular apply to reporting by
+natural persons of infringements of this Regulation.
+- Activities addressed specifically to children shall receive specific attention;
+(c) advise, in accordance with Member State law, the national parliament, the government, and other institutions and
+bodies on legislative and administrative measures relating to the protection of natural persons' rights and freedoms
+with regard to processing;
+(d) promote the awareness of controllers and processors of their obligations under this Regulation;
+(e) upon request, provide information to any data subject concerning the exercise of their rights under this Regulation
+and, if appropriate, cooperate with the supervisory authorities in other Member States to that end;
+(f)
+
+handle complaints lodged by a data subject, or by a body, organisation or association in accordance with Article 80,
+and investigate, to the extent appropriate, the subject matter of the complaint and inform the complainant of the
+progress and the outcome of the investigation within a reasonable period, in particular if further investigation or
+coordination with another supervisory authority is necessary;
+
+(g) cooperate with, including sharing information and provide mutual assistance to, other supervisory authorities with
+a view to ensuring the consistency of application and enforcement of this Regulation;
+(h) conduct investigations on the application of this Regulation, including on the basis of information received from
+another supervisory authority or other public authority;
+(i)
+
+monitor relevant developments, insofar as they have an impact on the protection of personal data, in particular the
+development of information and communication technologies and commercial practices;
+
+(j)
+
+adopt standard contractual clauses referred to in Article 28(8) and in point (d) of Article 46(2);
+
+(k) establish and maintain a list in relation to the requirement for data protection impact assessment pursuant to
+Article 35(4);
+(l)
+
+give advice on the processing operations referred to in Article 36(2);
+
+(m) encourage the drawing up of codes of conduct pursuant to Article 40(1) and provide an opinion and approve such
+codes of conduct which provide sufficient safeguards, pursuant to Article 40(5);
+(n) encourage the establishment of data protection certification mechanisms and of data protection seals and marks
+pursuant to Article 42(1), and approve the criteria of certification pursuant to Article 42(5);
+(o) where applicable, carry out a periodic review of certifications issued in accordance with Article 42(7);
+
+4.5.2016
+
+EN
+
+Official Journal of the European Union
+
+L 119/69
+
+(p) draft and publish the criteria for accreditation of a body for monitoring codes of conduct pursuant to Article 41
+and of a certification body pursuant to Article 43;
+(q) conduct the accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification
+body pursuant to Article 43;
+(r) authorise contractual clauses and provisions referred to in Article 46(3);
+(s) approve binding corporate rules pursuant to Article 47;
+(t)
+
+contribute to the activities of the Board;
+
+(u) keep internal records of infringements of this Regulation and of measures taken in accordance with Article 58(2);
+and
+(v) fulfil any other tasks related to the protection of personal data.
+2.
+- Each supervisory authority shall have all of the following investigative powers:
+
+(a) to order the controller and the processor, and, where applicable, the controller's or the processor's representative to
+provide any information it requires for the performance of its tasks;
+(b) to carry out investigations in the form of data protection audits;
+(c) to carry out a review on certifications issued pursuant to Article 42(7);
+(d) to notify the controller or the processor of an alleged infringement of this Regulation;
+(e) to obtain, from the controller and the processor, access to all personal data and to all information necessary for the
+performance of its tasks;
+(f) to obtain access to any premises of the controller and the processor, including to any data processing equipment
+and means, in accordance with Union or Member State procedural law.
+- Each supervisory authority shall have all of the following corrective powers:
+
+(a) to issue warnings to a controller or processor that intended processing operations are likely to infringe provisions of
+this Regulation;
+(b) to issue reprimands to a controller or a processor where processing operations have infringed provisions of this
+Regulation;
+(c) to order the controller or the processor to comply with the data subject's requests to exercise his or her rights
+pursuant to this Regulation;
+
+L 119/70
+
+EN
+
+Official Journal of the European Union
+
+4.5.2016
+
+(d) to order the controller or processor to bring processing operations into compliance with the provisions of this
+Regulation, where appropriate, in a specified manner and within a specified period;
+(e) to order the controller to communicate a personal data breach to the data subject;
+(f) to impose a temporary or definitive limitation including a ban on processing;
+(g) to order the rectification or erasure of personal data or restriction of processing pursuant to Articles 16, 17 and 18
+and the notification of such actions to recipients to whom the personal data have been disclosed pursuant to
+Article 17(2) and Article 19;
+(h) to withdraw a certification or to order the certification body to withdraw a certification issued pursuant to
+Articles 42 and 43, or to order the certification body not to issue certification if the requirements for the certifi­
+cation are not or are no longer met;
+(i) to impose an administrative fine pursuant to Article 83, in addition to, or instead of measures referred to in this
+paragraph, depending on the circumstances of each individual case;
+(j) to order the suspension of data flows to a recipient in a third country or to an international organisation.
+- Article 59
+Activity reports
+Each supervisory authority shall draw up an annual report on its activities, which may include a list of types of
+infringement notified and types of measures taken in accordance with Article 58(2).
+- Those reports shall be transmitted
+to the national parliament, the government and other authorities as designated by Member State law.
+- After being notified of the decision of the lead supervisory authority pursuant to paragraphs 7 and 9, the
+controller or processor shall take the necessary measures to ensure compliance with the decision as regards processing
+activities in the context of all its establishments in the Union.
+- The requested supervisory authority shall not refuse to comply with the request unless:
+
+(a) it is not competent for the subject-matter of the request or for the measures it is requested to execute; or
+(b) compliance with the request would infringe this Regulation or Union or Member State law to which the supervisory
+authority receiving the request is subject.
+- To that end, the Board shall, on its own
+initiative or, where relevant, at the request of the Commission, in particular:
+(a) monitor and ensure the correct application of this Regulation in the cases provided for in Articles 64 and 65
+without prejudice to the tasks of national supervisory authorities;
+
+4.5.2016
+
+EN
+
+Official Journal of the European Union
+
+L 119/77
+
+(b) advise the Commission on any issue related to the protection of personal data in the Union, including on any
+proposed amendment of this Regulation;
+(c) advise the Commission on the format and procedures for the exchange of information between controllers,
+processors and supervisory authorities for binding corporate rules;
+(d) issue guidelines, recommendations, and best practices on procedures for erasing links, copies or replications of
+personal data from publicly available communication services as referred to in Article 17(2);
+(e) examine, on its own initiative, on request of one of its members or on request of the Commission, any question
+covering the application of this Regulation and issue guidelines, recommendations and best practices in order to
+encourage consistent application of this Regulation;
+(f)
+
+issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for further
+specifying the criteria and conditions for decisions based on profiling pursuant to Article 22(2);
+
+(g) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing
+the personal data breaches and determining the undue delay referred to in Article 33(1) and (2) and for the
+particular circumstances in which a controller or a processor is required to notify the personal data breach;
+(h) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph as to the
+circumstances in which a personal data breach is likely to result in a high risk to the rights and freedoms of the
+natural persons referred to in Article 34(1).
+- (i)
+
+issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose
+of further specifying the criteria and requirements for personal data transfers based on binding corporate rules
+adhered to by controllers and binding corporate rules adhered to by processors and on further necessary
+requirements to ensure the protection of personal data of the data subjects concerned referred to in Article 47;
+
+(j)
+
+issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose
+of further specifying the criteria and requirements for the personal data transfers on the basis of Article 49(1);
+
+(k) draw up guidelines for supervisory authorities concerning the application of measures referred to in Article 58(1),
+(2) and (3) and the setting of administrative fines pursuant to Article 83;
+(l)
+
+review the practical application of the guidelines, recommendations and best practices referred to in points (e)
+and (f);
+
+(m) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing
+common procedures for reporting by natural persons of infringements of this Regulation pursuant to Article 54(2);
+(n) encourage the drawing-up of codes of conduct and the establishment of data protection certification mechanisms
+and data protection seals and marks pursuant to Articles 40 and 42;
+(o) carry out the accreditation of certification bodies and its periodic review pursuant to Article 43 and maintain a
+public register of accredited bodies pursuant to Article 43(6) and of the accredited controllers or processors
+established in third countries pursuant to Article 42(7);
+(p) specify the requirements referred to in Article 43(3) with a view to the accreditation of certification bodies under
+Article 42;
+(q) provide the Commission with an opinion on the certification requirements referred to in Article 43(8);
+(r) provide the Commission with an opinion on the icons referred to in Article 12(7);
+(s) provide the Commission with an opinion for the assessment of the adequacy of the level of protection in a third
+country or international organisation, including for the assessment whether a third country, a territory or one or
+more specified sectors within that third country, or an international organisation no longer ensures an adequate
+level of protection.
+- Article 71
+Reports
+1.
+- The Board shall draw up an annual report regarding the protection of natural persons with regard to processing in
+the Union and, where relevant, in third countries and international organisations.
+- The report shall be made public and
+be transmitted to the European Parliament, to the Council and to the Commission.
+- The annual report shall include a review of the practical application of the guidelines, recommendations and best
+practices referred to in point (l) of Article 70(1) as well as of the binding decisions referred to in Article 65.
+- The staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by
+this Regulation shall be subject to separate reporting lines from the staff involved in carrying out tasks conferred on the
+European Data Protection Supervisor.
+- The secretariat shall provide analytical, administrative and logistical support to the Board.
+- Article 79
+Right to an effective judicial remedy against a controller or processor
+1.
+Without prejudice to any available administrative or non-judicial remedy, including the right to lodge a complaint
+with a supervisory authority pursuant to Article 77, each data subject shall have the right to an effective judicial remedy
+where he or she considers that his or her rights under this Regulation have been infringed as a result of the processing
+of his or her personal data in non-compliance with this Regulation.
+- When deciding whether to impose an
+administrative fine and deciding on the amount of the administrative fine in each individual case due regard shall be
+given to the following:
+(a) the nature, gravity and duration of the infringement taking into account the nature scope or purpose of the
+processing concerned as well as the number of data subjects affected and the level of damage suffered by them;
+(b) the intentional or negligent character of the infringement;
+(c) any action taken by the controller or processor to mitigate the damage suffered by data subjects;
+(d) the degree of responsibility of the controller or processor taking into account technical and organisational measures
+implemented by them pursuant to Articles 25 and 32;
+(e) any relevant previous infringements by the controller or processor;
+(f) the degree of cooperation with the supervisory authority, in order to remedy the infringement and mitigate the
+possible adverse effects of the infringement;
+(g) the categories of personal data affected by the infringement;
+(h) the manner in which the infringement became known to the supervisory authority, in particular whether, and if so
+to what extent, the controller or processor notified the infringement;
+(i) where measures referred to in Article 58(2) have previously been ordered against the controller or processor
+concerned with regard to the same subject-matter, compliance with those measures;
+(j) adherence to approved codes of conduct pursuant to Article 40 or approved certification mechanisms pursuant to
+Article 42; and
+(k) any other aggravating or mitigating factor applicable to the circumstances of the case, such as financial benefits
+gained, or losses avoided, directly or indirectly, from the infringement.
+- Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines
+up to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the
+preceding financial year, whichever is higher:
+(a) the basic principles for processing, including conditions for consent, pursuant to Articles 5, 6, 7 and 9;
+(b) the data subjects' rights pursuant to Articles 12 to 22;
+(c) the transfers of personal data to a recipient in a third country or an international organisation pursuant to
+Articles 44 to 49;
+(d) any obligations pursuant to Member State law adopted under Chapter IX;
+(e) non-compliance with an order or a temporary or definitive limitation on processing or the suspension of data flows
+by the supervisory authority pursuant to Article 58(2) or failure to provide access in violation of Article 58(1).
+- Non-compliance with an order by the supervisory authority as referred to in Article 58(2) shall, in accordance
+with paragraph 2 of this Article, be subject to administrative fines up to 20 000 000 EUR, or in the case of an
+undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher.
+- Article 97
+Commission reports
+1.
+- By 25 May 2020 and every four years thereafter, the Commission shall submit a report on the evaluation and
+review of this Regulation to the European Parliament and to the Council.
+- The reports shall be made public.
+- The Commission shall, if necessary, submit appropriate proposals to amend this Regulation, in particular taking
+into account of developments in information technology and in the light of the state of progress in the information
+society.
+
+Document: PCI_DSS_v2_Cloud_Guidelines.txt
+- Author:
+
+Cloud Special Interest Group
+PCI Security Standards Council
+
+Information Supplement:
+
+PCI DSS Cloud Computing
+Guidelines
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+
+Table of Contents
+1
+
+2
+
+Executive Summary ........................................................................................................................................... 1
+1.1
+
+Intended Use ................................................................................................................................................. 1
+
+1.2
+
+Audience ....................................................................................................................................................... 2
+
+1.3
+
+Terminology .................................................................................................................................................. 2
+
+Cloud Overview .................................................................................................................................................. 3
+2.1
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Deployment and Service Models .................................................................................................................. 3
+
+Cloud Provider / Cloud Customer Relationships ........................................................................................... 6
+3.1
+
+Understanding Roles and Responsibilities ................................................................................................... 6
+
+3.2
+
+Roles and Responsibilities for Different Deployments Models ..................................................................... 6
+
+3.3
+
+Responsibilities for Different Service Models................................................................................................ 7
+
+3.4
+
+Nested Service-Provider Relationships ........................................................................................................ 9
+
+PCI DSS Considerations ................................................................................................................................. 10
+4.1
+
+Understanding PCI DSS Responsibilities ................................................................................................... 10
+
+4.2
+
+PCI DSS Responsibilities for Different Service Models .............................................................................. 10
+
+4.3
+
+Security as a Service (SecaaS) .................................................................................................................. 12
+
+4.4
+
+Segmentation Considerations ..................................................................................................................... 12
+
+4.5
+
+Scoping Considerations .............................................................................................................................. 15
+
+PCI DSS Compliance Challenges ................................................................................................................... 18
+5.1
+
+What does “I am PCI compliant” mean?
+- 19
+
+5.2
+
+Verifying Scope of Validated Services and Components ........................................................................... 19
+
+5.3
+
+Verifying PCI DSS Controls Managed by the Cloud Provider .................................................................... 20
+
+Additional Security Considerations ............................................................................................................... 22
+6.1
+
+Governance, Risk and Compliance ............................................................................................................ 22
+
+6.2
+
+Facilities and Physical Security ................................................................................................................... 24
+
+6.3
+
+Data sovereignty and Legal considerations ................................................................................................ 24
+
+6.4
+
+Data Security Considerations ..................................................................................................................... 25
+
+6.5
+
+Technical Security Considerations ..............................................................................................................
+- 27
+
+6.6
+
+Incident Response and Investigation .......................................................................................................... 31
+
+Conclusion ....................................................................................................................................................... 32
+
+Appendix A:
+- As cloud
+computing is still an evolving technology, evaluations of risks and benefits may change as the technology
+becomes more established and its implications become better understood.
+- Clear policies and procedures should be
+agreed between client and cloud provider for all security requirements, and responsibilities for operation,
+management and reporting should be clearly defined and understood for each requirement.
+- 1.1
+
+Intended Use
+This document provides guidance on the use of cloud technologies and considerations for maintaining PCI
+DSS controls in cloud environments.
+- This guidance builds on that provided in the PCI DSS Virtualization
+Guidelines and is intended for organizations using, or thinking of using, providing, or assessing cloud
+technologies as part of a cardholder data environment (CDE).
+- 
+
+PCI DSS Compliance Challenges – Describes some of the challenges associated with validating PCI
+DSS compliance in a cloud environment.
+- 
+
+Additional Security Considerations – Explores a number of business and technical security
+considerations for the use of cloud technologies.
+- This document does not endorse the use of any specific
+technologies, products, or services.
+- Guidance for working with third-party cloud providers and PCI DSS compliance
+challenges may also be useful.
+- Guidance on CSP/client relationships and PCI DSS compliance
+challenges may also be useful for providers.
+- 1.3
+
+Terminology
+The following terms are used throughout this document:
+
+2
+
+
+
+CSP – Cloud Service Provider.
+- Cloud computing can be used to provide clients with access to the latest technologies without a costly
+investment in hardware and software.
+- Due to the economies of scale associated with the delivery of cloud
+services, CSPs can often provide access to a greater range of technologies and security resources than the
+client might otherwise have access to.
+- 
+
+Community cloud – The cloud infrastructure is shared by several organizations and supports a specific
+community with shared requirements or concerns (for example, business model, security requirements,
+policy, or compliance considerations).
+- 
+
+Hybrid cloud – The cloud infrastructure is a composition of two or more clouds (private, community, or
+public) that remain unique entities but are bound together by technology to enable portability.
+- Clear
+policies and procedures should be agreed upon between client and cloud provider for all security
+requirements, and clear responsibilities for operation, management and reporting need to be defined for each
+requirement.
+
+3.2
+
+Roles and Responsibilities for Different Deployments Models
+- In this scenario, the client organization retains full control of their
+environment and its security and compliance.
+- However, it’s important to note that the
+technology layers and their corresponding lines of responsibility may be different for each CSP,
+even if they use the same terminology to describe their service, and the individual service offerings
+may or may not align with the responsibly assignments indicated above.
+- 
+
+The scope of any additional services the CSP is providing to proactively manage the client’s compliance
+(for example, additional managed security services).
+- Information provided here does not replace
+or supersede requirements in any PCI SSC Standard.
+
+11
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+
+Where the CSP maintains responsibility for PCI DSS controls, the client is still responsible for monitoring the
+CSP’s ongoing compliance for all applicable requirements.
+- CSPs should be able to provide their clients with
+ongoing assurance that requirements are being met, and where the CSP is managing requirements on behalf
+of the client, they should have mechanisms in place to provide the customer with the applicable records—for
+example, audit logs showing all access to client data.
+- Clients are still required to validate their compliance in accordance with payment brand programs.
+- Information provided here does not replace
+or supersede requirements in any PCI SSC Standard.
+
+12
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+
+
+
+Environments where clients run their applications in separate logical partitions using separate database
+management system images and do not share disk storage or other resources.
+- Without adequate segmentation, all clients of the shared infrastructure, as well as the CSP, would need to be
+verified as being PCI DSS compliant in order for any one client to be assured of the compliance of the
+environment.
+- This will likely make compliance validation unachievable for the CSP or any of their clients.
+- Applicable PCI DSS controls for the segmentation functions would also be the CSP’s
+responsibility (for example, firewall rules, audit logging, documentation, reviews, etc.).
+- 4.4.3
+
+Segmentation Technologies
+Traditional network segmentation technologies consist of hardware devices such as firewalls, switches,
+routers, and so forth.
+- Examples of controls to be considered when evaluating segmentation options include, but are not limited
+to:
+
+
+Physical firewalls and network segmentation at the infrastructure level
+
+
+
+Firewalls at the hypervisor and VM level
+
+
+
+VLAN tagging or zoning in addition to firewalls
+
+
+
+Intrusion-prevention systems at the hypervisor and/or VM level to detect and block unwanted traffic
+
+
+
+Data-loss-prevention tools at the hypervisor and/or VM level
+
+
+
+Controls to prevent out-of-band communications occurring via the underlying infrastructure
+
+
+
+Isolation of shared processes and resources from client environments
+
+
+
+Segmented data stores for each client
+
+
+
+Strong, two-factor authentication
+
+
+
+Separation of duties and administrative oversight
+
+
+
+Continuous logging and monitoring of perimeter traffic, and real-time response
+
+The intent of this document is to provide supplemental information.
+- Scenario
+
+Environment description
+
+PCI DSS scoping guidance
+
+Case 1: Private Cloud hosted and
+controlled by entity seeking PCI
+DSS compliance, with
+segmentation.
+- (segmentation must be validated as
+
+ Validated segmentation of CDE
+
+providing effective isolation)
+
+systems from non-CDE systems
+using a combination of physical
+and logical controls
+Case 2: Private Cloud hosted and
+controlled by entity seeking PCI
+DSS compliance, no segmentation.
+-  VMs may be on one or multiple
+
+PCI DSS scoping guidance
+The CSP is responsible for
+
+hypervisors, all hypervisors and
+
+compliance of all elements of the
+
+VMs are configured by CSP to
+
+cloud service provided.
+- Segmentation must be
+
+environments using a
+
+validated as providing effective
+
+combination of physical and
+
+isolation between clients as part of
+
+logical controls.
+- Note
+
+configured by CSP to support
+
+that validating PCI DSS compliance
+
+PCI DSS requirements.
+
+may be intractable and infeasible
+
+ Multiple clients hosted on each
+hypervisor, VM configuration
+managed by each client.
+- 17
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+
+5 PCI DSS Compliance Challenges
+Storing, processing, or transmitting cardholder data in the cloud brings that cloud environment into scope for
+PCI DSS, and it may be particularly challenging to validate PCI DSS compliance in a distributed, dynamic
+infrastructure such as a public or other shared cloud.
+- Some of the technical controls and auditing processes traditionally used to attain a measurable level
+of assurance in static environments (for example, in-house data storage servers) are not designed for rapidlychanging cloud environments and processes (for example, cloud bursting, continual deployment and
+retirement of virtual machines, dynamic IP addressing, and so on).
+- The distributed architectures of cloud environments add layers of technology and complexity that challenge
+traditional assessment methods.
+- Examples of compliance challenges include but are not limited to:
+
+
+Clients may have little or no visibility into the CSP’s underlying infrastructure and the related security
+controls.
+- 
+
+Some virtual components do not have the same level of access control, logging, and monitoring as their
+physical counterparts.
+- 
+
+It can be challenging to collect, correlate, and/or archive all of the logs necessary to meet applicable PCI
+DSS requirements.
+- 
+
+Many large providers might not support right-to-audit for their clients.
+- These challenges will impact a number of factors related to how PCI DSS compliance is managed, including
+how segmentation is implemented, how PCI DSS assessments are scoped, how individual PCI DSS
+requirements are validated, and which party will perform particular validation activities.
+- At a high level, CSPs can be identified as those that have been validated as meeting a particular level of PCI
+DSS compliance and those that have not.
+- Use of a PCI DSS compliant CSP does not result in PCI DSS compliance for the clients.
+- The client therefore
+must work with the CSP to ensure that evidence is provided to verify that PCI DSS controls are maintained on
+an ongoing basis—an Attestation of Compliance (AOC) reflects a single point in time only; compliance
+requires ongoing monitoring and validation that controls are in place and working effectively.
+- Additionally, the client must still
+maintain compliance for all of their own operations—for example, by ensuring anti-virus is installed and
+updated on all client-side systems used to connect into the cloud environment.
+- Similarly, a client’s PCI DSS compliance does not result in any claim of compliance for the CSP, even if the
+client’s validation included elements of the service managed by the CSP.
+- Regarding the applicability of one party’s compliance to the other, consider the following:
+a) If a CSP is compliant, this does not mean that their clients are.
+- CSPs that
+have validated PCI DSS compliance may be included on a list published by a payment card brand or they
+may not; either way, the client will need to obtain details of the CSP’s compliance validation in order to
+determine whether the service they are using is wholly covered.
+- The client must have a
+detailed understanding of any security requirements that are not covered by the provider and are
+therefore the client’s responsibility to implement, manage, and validate as part of their own PCI DSS
+compliance.
+- CSPs that have undergone an independent PCI DSS assessment to validate their compliance will have
+the results summarized in an Attestation of Compliance (AOC) and detailed in a Report on Compliance
+(ROC).
+- CSPs that have undergone PCI DSS compliance assessment and validation should be able to provide
+their clients with the following:
+
+
+Proof of compliance documentation (such as the AOC and applicable sections from the ROC),
+including date of compliance assessment
+
+
+
+Documented evidence of system components and services that were included in the PCI DSS
+assessment
+
+
+
+Documented evidence of system components and services that were excluded from the PCI DSS
+assessment, as applicable to the service
+
+
+
+Appropriate contract language, if applicable
+The intent of this document is to provide supplemental information.
+- Information provided here does not replace
+or supersede requirements in any PCI SSC Standard.
+
+20
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+
+CSPs that have not undergone a PCI DSS compliance assessment will need to be included in their
+client’s assessment.
+- The client’s assessor may require onsite
+access and detailed information from the CSP, including but not limited to:
+
+
+Access to systems, facilities, and appropriate personnel for on-site reviews, interviews, physical walkthroughs, etc.
+
+
+
+Policies and procedures, process documentation, configuration standards, training records, incident
+response plans, etc.
+
+
+
+Evidence (such as configurations, screen shots, process reviews, etc.) to show that all applicable PCI
+DSS requirements are being met for the in-scope system components
+
+
+
+Appropriate contract language, if applicable
+
+The client and CSP will need to agree upon which assessment activities can be performed by the client
+and which testing is the responsibility of the CSP.
+- The CSP also needs to be able to provide clients with specific details as applicable to the ongoing
+maintenance of PCI DSS compliance.
+- For example, depending on the service provided, the CSP may
+need to produce copies of log files, patch update records, or firewall rule-sets that specifically apply to an
+individual client’s environment.
+- This may help to simplify the compliance
+validation process for both the CSP and for their individual clients.
+- 6.1
+
+Governance, Risk and Compliance
+One of the primary challenges with cloud environments is that governance, compliance, and risk management
+are typically shared between the client and CSP.
+- Reporting and monitoring mechanisms should be made available to client organizations
+to provide assurance that effective governance is applied by the CSP.
+- However, the advent
+of new technologies requires a reevaluation of traditional risk strategies.
+- Identifying elements of the service that need to be clarified, and that need to be included in
+contracts or service agreements
+Due diligence is not simply reading the provider’s marketing material or relying on a provider’s claims of
+“PCI compliance” or secure operations.
+- The secure delivery of any cloud
+service is dependent on the CSP’s personnel, processes, and technologies, while the secure usage of
+cloud services remains the responsibility of the client.
+- However, the client is ultimately responsible for ensuring the service
+they’re using meets their security requirements and compliance obligations.
+- PCI DSS compliance validation and testing activities (with the associated
+controls, permissions, and schedules) should also be clearly detailed in the SLA.
+- CSPs should have documented processes for responding to legal requests for seizure of
+records, including data/audit logs belonging to the CSP and their clients.
+- For example, operational data, security policies and procedures,
+system configurations and build standards, log files, audit reports, authentication credentials, cryptographic
+keys, incident response plans, and employee contact details are just some of the types of data with different
+security requirements that may need to be considered.
+- 6.4.2
+
+Data storage and persistence
+In addition to the known range of intended storage locations, data may also be present in other CSP
+systems used for maintenance of the cloud infrastructure, such as VM images, backups, monitoring logs,
+and so on.
+- 6.4.3
+
+Data lifecycle management
+For all cloud models, clear requirements for data retention, storage and secure disposal should form an
+integral part of the engagement process to ensure that sensitive data is:
+
+
+Retained for as long as needed,
+
+
+
+Not retained any longer than needed,
+
+
+
+Stored only in appropriate and secured locations,
+
+The intent of this document is to provide supplemental information.
+- In a distributed cloud environment, verifying that all instances of cardholder data have been securely
+deleted in accordance with the client’s data-retention policy is subject to the same challenges identified
+above for validating data security and access controls.
+- However, clients should be aware that leaving potentially
+unknown quantities of encrypted data on CSP systems after their agreement has been terminated is likely
+to be a violation of their data-retention policy.
+- 6.5
+
+Technical Security Considerations
+Technical security considerations for cloud environments generally include all those that apply to virtualization
+technologies, as well as those directly related to the different deployment and service models.
+- 6.5.1
+
+Evolving Security Technologies
+As mentioned above, virtualization security considerations will also apply to cloud environments.
+- 27
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+
+SSC website—that discuss security considerations for the use of virtual technologies.
+- 6.5.3
+
+Logging and Audit Trails
+CSPs should be able to segregate log data applicable for each client and provide it to each respective
+client for analysis without exposing log data from other clients.
+- Additionally, the ability to maintain an
+accurate and complete audit trail may require logs from all levels of the infrastructure, requiring
+involvement from both the CSP and the client.
+- For example, the CSP could manage system-level,
+operating-system, and hypervisor logs, while the client configures logging for their own VMs and
+The intent of this document is to provide supplemental information.
+- In this scenario, the ability to associate various log files into meaningful events would require
+correlation of client-controlled logs and those controlled by the CSP.
+- Depending on the particular technology implemented, introspection can provide the CSP with a level of
+real-time auditing of VM activity that may otherwise be unattainable.
+- Two potential challenges with introspection are that it can bypass role-based access controls and it can
+be used without leaving a forensic audit trail within the VM itself.
+- For example, to view a data file, a user
+typically authenticates to the VM, resulting in an authentication audit trail and ensuing the user’s access is
+controlled according to their defined permissions.
+- If file-access logging is enabled in the VM and the user
+views a file, the access is recorded to show what was accessed by whom and when.
+- As no
+authentication to the VM itself is required, file access leaves no audit trail on the VM and the VM contains
+no evidence that the file was accessed.
+- In this example, the access would need to be logged via the
+introspection tool itself, which would typically not be in the client’s control.
+- For example, the ability to configure introspection auditing should not be available to
+personnel with the ability to access hosted VMs via the introspection tool.
+- CSPs using introspection should be able to provide their clients with all applicable introspection logs for
+that client’s environment including, but not limited to, authentication details, disk and memory access
+requests, and API calls.
+- All introspection activity should be mapped to the individual user account
+performing the activity, and logs should be reviewed on a continual basis to ensure the integrity and
+confidentiality of client data has been maintained.
+- For
+example, a poorly-coded API could result in weak authentication protocols, poor access controls, and
+limited auditing capability.
+- The client will therefore need to ensure their client-side devices are appropriately secured
+and protected from unauthorized physical and logical access.
+- 6.6
+
+Incident Response and Investigation
+Clients need to know when an issue, incident, or breach has occurred and the impact to their environment
+and/or to their data.
+- Issues, incidents, and data breaches should be communicated by the CSP in a timely
+manner.
+- Clients should consider whether their CSP requires all clients to immediately notify the CSP of
+potential breaches in their environments, allowing the CSP to respond more quickly to contain the breach and
+minimize its impact to other clients.
+- Definitions of what constitutes a breach or incident requiring notification between client and cloud provider
+should be agreed.
+- Notification processes and timelines should be included in SLAs, and incident response
+plans should include notification requirements.
+- The potential for client data to be captured by third parties
+during a breach investigation should also be clearly understood.
+- Investigating potential breaches in cloud environments brings additional challenges.
+- For example,
+compromised VM instances may be deactivated before anyone is aware that a breach occurred.
+- It may be
+nearly impossible to properly investigate a breach when the source of the breach is no longer in use or even
+exists.
+- It is therefore crucial that prior to
+migrating payment card operations into a cloud environment, an organization engages their technical, legal,
+due diligence, information security, and compliance teams to work together to define the client’s needs and
+evaluate potential cloud service offerings against those needs.
+- o
+
+What does the service provide with respect to security maintenance, PCI DSS compliance,
+segmentation, assurance, and what is the client responsible for?
+
+o
+
+How will the CSP provide ongoing evidence that security controls continue to be in place and are
+kept up to date?
+- CSPs are encouraged to work with their clients to understand their security and compliance needs.
+- The CSP may also define the retention periods.
+- The use of controls to prevent unintended or additional retention (for example, via
+
+retention is defined by the client; however the CSP controls the actual storage areas.
+
+might be unknown to the client, and storage locations may need to be identified.
+- IaaS: Secure configuration of OS and applications is typically responsibility of the client
+
+Common Considerations
+
+Requirement 2:
+
+PCI DSS Requirements
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+
+the underlying technology is managed by the CSP; however, this will depend on the
+
+Encrypt transmission of
+cardholder data across
+open, public networks
+
+virus updates apply to the host OS as well as any VMs in the client environment running
+
+Use and regularly update
+anti-virus software or
+programs
+
+Client
+
+Client
+
+IaaS
+
+Client
+and CSP
+
+Client
+and CSP
+
+PaaS
+
+CSP
+
+CSP
+
+SaaS
+
+35
+
+Example responsibility assignment
+for management of controls
+
+The intent of this document is to provide supplemental information.
+- The client should be aware of how data is transmitted between components in
+
+client environment are generally maintained by the CSP, depending on the particular
+
+technologies in use.
+- Information provided here does not replace
+or supersede requirements in any PCI SSC Standard
+
+basic reporting.
+- limited application-level logging such as user logon/logoff, account management, and
+
+SaaS: The client typically relies on the CSP for all monitoring and logging, but may have
+
+available to the client will need to be defined.
+- Details of what data will be captured and what will be made
+
+Some monitoring activities may be built into the service agreement for the CSP to
+
+controlled logs and those controlled by the CSP.
+
+various log files in order to reconstruct events may require correlation between client-
+
+monitoring and logging within their own virtual environments.
+- The ability to associate
+
+IaaS and PaaS: The CSP typically manages monitoring and logging for underlying
+
+Requirement 10:
+
+data.
+
+data across different locations; the clients may not know which location houses their
+
+visits or client audits.
+- Incident response in particular requires awareness and
+
+Clients should ensure that the CSP policies and procedures are appropriate for the
+
+requirements are the responsibility of each party for their respective personnel.
+
+procedures.
+- SaaS: The client doesn’t have visibility or permission to perform scans and typically
+
+CSP.
+
+data, applications, and logs), while monitoring of system/device files is managed by the
+
+Generally the client can use FIM to monitor their own virtual environments (including
+
+verify which instances/VMs are covered.
+- Testing is generally managed by whoever has control of the particular
+
+Common Considerations
+
+Requirement 11:
+
+PCI DSS Requirements
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+
+depending on structure of
+CSP service offerings
+
+Hypervisors
+
+Virtual networking
+
+Virtual Machines
+
+Operating Systems
+
+Programming stack
+
+Applications
+
+Interfaces – APIs/GUIs
+
+Is component physical,
+logical or virtual?
+Static or dynamic?
+- Component
+Description/Purpose
+For example:
+Is component physical,
+logical or virtual?
+Static or dynamic?
+- It may be necessary to reorganize the different technology layers or define additional
+
+Physical facilities
+
+Network devices
+
+Data Storage
+
+Processing/Memory
+
+Note: Actual layers will vary
+depending on structure of
+CSP service offerings
+
+Type/Layer
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+- How and when CSP will
+provide evidence of
+compliance to Client
+
+41
+
+How will the CSP provide ongoing assurance and/or evidence to the client that controls are met?
+- (For example, periodic reports, real-time
+notifications, results of testing, etc.)
+- Appendix C: Sample PCI DSS Responsibility Matrix
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+
+Specific coverage/
+scope of client
+responsibly
+
+Specific coverage/
+scope of CSP
+responsibility
+
+How and when CSP will
+provide evidence of
+compliance to Client
+
+The intent of this document is to provide supplemental information.
+- It is not intended as a
+requirement or an extension of PCI DSS compliance responsibilities.
+- 1.1.4 Description of groups, roles, and
+responsibilities for logical management of
+network components
+
+1.1.3 Requirements for a firewall at each
+Internet connection and between any
+demilitarized zone (DMZ) and the internal
+network zone
+
+PCI DSS Requirement
+
+(CSP only, client
+only, or shared)
+- Responsibility
+
+42
+
+Information Supplement • PCI DSS Cloud Computing Guidelines • February 2013
+
+ENISA Information Assurance Requirements
+
+
+
+2: Do not use vendor-supplied
+defaults for system passwords and
+other security parameters
+
+1: Install and maintain a firewall
+configuration to protect cardholder
+data
+
+Build and Maintain a Secure
+Network
+
+PCI DSS Requirement
+
+What technologies are used in the provision of the cloud service—e.g., hardware, software, virtual technologies?
+
+
+
+Are hardened images protected from unauthorized access?
+- Who manages and audits firewall configurations?
+- How are boundaries enforced between trusted (internal to the client) networks and untrusted networks (such as CSP,
+other client, or public-facing networks)?
+
+
+
+o
+
+How is separation between tenants assured?
+
+
+
+Considerations for Cloud Environments
+
+Please also refer to the PCI DSS Virtualization Guidelines for additional PCI DSS considerations for virtualization technologies.
+- Does the CSP have any business, legal or regulatory requirements that could impact retention of client data?
+- How is segregation of duties maintained (for example, between administrative and auditing functions)?
+- How is testing for wireless technologies performed and managed?
+- How are audit logs monitored and reviewed?
+- How are audit logs correlated between client environments (such as a VM image) and CSP infrastructure (such as the
+hypervisor or underlying system)?
+- 
+
+o
+
+What types of events are recorded in audit logs?
+- Information provided here does not replace
+or supersede requirements in any PCI SSC Standard
+
+Can a client’s data be collected as part of another client’s (or CSP’s) breach investigation (either by authorities or third
+party investigators)?
+- o
+
+
+How would a breach at one client impact other clients on the same infrastructure?
+- o
+
+What happens to client data in the event of a breach to CSP systems?
+- What notifications are provided and when?
+
+o
+
+
+
+What criteria are used to define whether an “incident” or a “breach” has actually occurred?
+- o
+
+What processes are in place to detect, assess, escalate, and respond to potential breaches?
+- 
+What mechanisms are in place for clients to report a suspected breach?
+- Integralis Ltd
+International Cards Processing Services
+Internet Security Auditors
+IOActive, Inc.
+IQ Information Quality
+Kilrush Consultancy Ltd.
+Kingston Smith Consulting LLP
+Knowit Secure AB
+
+KPMG, LLP
+Layered Tech
+Liaison Technologies Inc.
+McGladrey LLP
+Market America, Inc.
+Merchant Link
+Microsoft
+Nationwide Building Society
+PathMaker Group
+PayPros
+PricewaterhouseCoopers LLP
+Privity Systems Inc.
+Protiviti
+Retalix
+RightScale
+Royal Bank of Scotland
+SecurityMetrics, Inc.
+Sense of Security Pty Ltd.
+Specsavers
+Structured Communications Systems, Inc.
+Tesco Plc.
+- Thales e-Security
+Trend Micro Inc.
+TrustNet
+Trustwave
+The UK Cards Association
+University of North Carolina at Chapel Hill
+Vanguard Integrity Professionals
+Venda
+VendorSafe Technologies, LLC.
+- Source
+
+10
+
+Cloud Security Alliance (CSA)
+
+Reference
+
+
+Security Guidance for Critical Areas of Focus in Cloud
+Computing v3.0
+
+
+
+How to do PCI DSS in the Cloud (Courseware)
+
+
+
+Top Threats to Cloud Computing V1.0
+
+
+
+Consensus Assessments Initiative Questionnaire v1.1
+
+
+
+Hypervisor vs. Host Based Security
+
+
+
+Cloud Computing – Benefits, risks and recommendations for
+information security
+
+
+
+The NIST Definition of Cloud Computing (S P 800-145)
+
+
+
+Cloud Computing Synopsis and Recommendations (SP 800146)
+
+
+
+Guidelines on Security and Privacy in Public Cloud Computing
+(SP 800-144)
+
+
+
+NIST Cloud Computing Reference Architecture (SP 500-292)
+
+
+
+Guidance on the use of cloud computing
+
+ISACA
+
+
+
+Cloud Computing Management Audit/Assurance Program
+
+http://www.isaca.org/
+
+
+
+Meeting PCI DSS When Using a Cloud Service Provider
+
+ISC2 International Information Systems
+Security Certification Consortium, Inc.,
+
+
+
+Security in the Skies – Cloud computing security concerns,
+threats, and controls
+
+
+
+OWASP Cloud-10 Project
+
+
+
+Robert Zigweid Webinars:
+
+https://cloudsecurityalliance.org/
+
+European Network and Information
+Security Agency (ENISA)
+http://www.enisa.europa.eu/
+National Institute of Standards and
+Technology (NIST)
+http://csrc.nist.gov/publications/
+
+Information Commissioners Office (ICO)
+http://www.ico.gov.uk/
+
+https://www.isc2.org/
+The Open Web Application Security
+Project (OWASP)
+https://www.owasp.org
+Cloud Computing Security Research
+Library
+http://searchcloudsecurity.com
+
+PCI SSC
+
+o
+
+Collision Course: PCI Data and the Cloud
+
+o
+
+Security Role Play: Merchants and Cloud Service Providers
+
+o
+
+Tools to Assess PCI Compliance in Cloud
+
+
+
+Technical Guide on Compliance and Cloud Security
+
+
+
+PCI DSS Virtualization Guidelines
+
+
+
+Don’t Bloat the Hypervisor.
+
